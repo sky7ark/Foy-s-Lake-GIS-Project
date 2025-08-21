@@ -11,5 +11,5 @@ Key Features:
 
 Tools & Technologies:
 1. QGIS - spatial analysis, digitization, buffering, symbology
-2. OpenStreetMap / Satellite imagery for basemap and property mapping
+2. OpenStreetMap Satellite imagery for basemap and property mapping
 3. Geospatial analysis techniques such as buffering, polygon digitization, and overlay analysis
