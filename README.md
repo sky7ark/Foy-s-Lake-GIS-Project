@@ -13,3 +13,7 @@ Tools & Technologies:
 1. QGIS - spatial analysis, digitization, buffering, symbology
 2. OpenStreetMap Satellite imagery for basemap and property mapping
 3. Geospatial analysis techniques such as buffering, polygon digitization, and overlay analysis
+
+<img width="1051" height="655" alt="View2" src="https://github.com/user-attachments/assets/cf145c37-8d22-49ae-ad4d-3b29b71eea6f" />
+<img width="1092" height="703" alt="View1" src="https://github.com/user-attachments/assets/83f393db-a6b2-47a2-83f1-992beb939845" />
+
